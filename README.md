@@ -6,6 +6,8 @@ This bot has been programmed to hit the Moxfield.com API at various commands or 
 
 Use of this code that hits the Moxfield API or knowledge of the Moxfield API from viewing this code and executing against Moxfield's API is AT YOUR OWN RISK.
 
+Code / Bot / Exeuctions Thereof are not affiliated with, endorsed, or sponsored by Moxfield LLC
+
 ### MIT License
 
 Copyright (c) 2024 tyraziel
